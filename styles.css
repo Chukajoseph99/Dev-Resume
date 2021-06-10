@@ -1,0 +1,28 @@
+body{
+padding:0;
+margin:0;
+width: 100%;
+font-family: 'Merriweather', serif;
+}
+
+header{
+width: 80%;
+margin: 0 auto;
+}
+
+.header-cols{
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-gap: 4rem;
+}
+
+main{
+width: 80%;
+margin: 0 auto;
+}
+
+.main-cols{
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-gap: 4rem;
+}
