@@ -26,3 +26,21 @@ display: grid;
 grid-template-columns: repeat(2, 1fr);
 grid-gap: 4rem;
 }
+
+h1{
+font-weight: Bolder;
+}
+
+h2{
+font-size: 20px;
+font-weight: bold;  
+}
+
+h3{
+ font-weight: lighter;   
+}
+
+p{
+font-weight: lighter;
+font-size: 16px;
+}
